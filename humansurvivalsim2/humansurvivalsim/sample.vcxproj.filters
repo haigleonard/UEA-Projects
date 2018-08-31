@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Animal.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Fire.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="FSM.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Health.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Human.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PathFinder.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Survivor.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="SimulationInfo.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Shelter.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Prey.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="logFile.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{47197092-7aaa-4bd8-8c97-bd4f0629c1b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="h">
+      <UniqueIdentifier>{8a86d661-7a46-4cc7-8fc0-052a4925a92f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Model\Animal.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\CollisionDetection.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\console.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Fire.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\FSM.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Health.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Human.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Map.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Node.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\PathFinder.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Prey.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Shelter.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\SimulationInfo.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Survivor.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\Water.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Model\logFile.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

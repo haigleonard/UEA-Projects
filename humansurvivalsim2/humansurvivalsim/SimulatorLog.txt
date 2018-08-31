@@ -1,0 +1,8 @@
+Day: 1
+weight: 17.422373
+Hydration: 158.454330
+Energy: 59.031666
+Wood: 4.218333
+Prey: 1.666667
+Trees: 216.166672
+

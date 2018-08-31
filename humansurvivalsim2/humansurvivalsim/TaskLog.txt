@@ -1,0 +1,29 @@
+Need water.
+Found water at distance...
+Wood collected.
+Need wood for filtering.
+Wood found.
+Filtering...
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Fetching water...
+Wood collected.
+Filtering...
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Need wood for shelter.
+Wood found.
+Fetching water...
+Wood collected.
+Filtering...
+Need wood for shelter.
