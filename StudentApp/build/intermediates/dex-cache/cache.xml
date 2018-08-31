@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_391430bc14aa4479e07a7ffd31d44972e1f4b476\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b98551452b7b3a658f9c01f583ce592554942cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.1.0_b8ff7e745d60b65c5d22f190cd0de4dd4893aeb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_b2acb03899737ab83f8d07a04831c54c02b564ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f7c1eac7f712a411ac729c3bc917ba4af8baba37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7e58fdeb33471b29a9827df529352769471d199e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_fb11d924545b6575b220bd4d7183fdcf30d13749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="15d8a1c0c2988997d27f12fb9a63fe4d7e463262">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f0d915820f21b5f7149bc913b3bd5f25e02a52db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3d2c9b7741f5e6625b1c7001feee970810e17bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="301dfa028520858136c0bba9aa8cb3812963c07f">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_05836e9ba229c92c17fde3932a84cc390cbab55c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_6006c42bf38b22c5af38e935409643c63b668b2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_064d463332ffe69079b3976a35657f12463ba0d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ef57c77164debe4bcd3789a815a6e3af409e3b5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_03108eaf37941acd139208235b6afc173df71f06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_4479ba32aaf4ad4536d0291316348e945e7877a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-beta2_ab99a640ac4339c03559e5cb774ab76010d0d81c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.2.0_2aad1996d4a19f1d1c7680e11f9f96fc8325b177\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_4766ef9f0a8dcef4b6698fa4703a2ffdf5ed9401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_427c80f3a6cc4d41a28f48336ee99de4ac7bfaf8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0c5e4fefef00cea0f193193a99c00c415d2b3b8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_18d997c379b422b2d619f5f4fe30b0e259a389eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_773c1e6201cad6d2a827a79fe97202c2c78144dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta2\constraint-layout-solver-1.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-beta2_eb60346caf897ef2303a2306532e726a98b22ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_284e1aa1a510e848af4db85a4a5a6135c472ea0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ca7984e43fbaa973f172025a8f7d6a5763086688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Haig\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Haig\.AndroidStudio2.2\StudentApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.1_b1bc916372215847fa1671b34870bd99b0797a5b\classes.dex" />
+    </item>
+
+</items>

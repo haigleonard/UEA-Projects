@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student Experience</string>
+    <string name="title_activity_profile__gui">Profile_GUI</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="facebook_app_id">1206110779464830</string>
+</resources>
