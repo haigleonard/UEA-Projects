@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grad.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\grad.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\padlock.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\padlock.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\campus.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\campus.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sp.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\sp.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradlogo.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\gradlogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uealcr.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\uealcr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uea.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\uea.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lib.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\lib.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uea1.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\uea1.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fr.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\fr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chall.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\chall.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\zigg.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\zigg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\map.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qr2.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\qr2.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map1.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\map1.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qm.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\qm.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\shop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\village.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\village.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ueasq.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\ueasq.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joost.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\joost.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\span.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\span.png"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sains.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\sains.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uealake.jpg",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\uealake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.1.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uk.png",
+        "source": "C:\\Users\\Haig\\.AndroidStudio2.2\\StudentApp\\app\\src\\main\\res\\drawable\\uk.png"
+    }
+]

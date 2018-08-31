@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="uk.ac.leonarduea.haig.View.MainActivity_GUI"
+    android:weightSum="1"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+
+    <TextView
+    android:text="\t\t\t\t\t\t\t\t\t\t\t\t\t Welcome"
+    android:layout_width="240dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="2dp"
+    android:id="@+id/tv5"
+    android:layout_centerHorizontal="true"
+    android:visibility="visible"
+        android:textStyle="normal|bold"
+        android:textSize="24sp"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:text="\nTo the best personal tour guide of UEA, this app is not the usual, boring campus tour!\n\nIts all up to you! walk around campus visit where ever you want, find your own way around. But remember be on the look out for QR codes the more you scan the better you do.\n\nIts all about the things students really do! so go and search this campus, and get you student experience,so do you have what it takes to spend the day like a true UEA student.
+        \n\t\t\t\t\t\t\t\t\t\t\t\tAre you ready?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:id="@+id/text1"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible"
+        android:layout_weight="0.60"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:text="Please Enter your Name below:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:id="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:visibility="visible"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <EditText
+        android:layout_width="349dp"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:layout_marginTop="5dp"
+        android:id="@+id/user_name"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:textColor="?attr/actionModeSplitBackground"
+        android:visibility="visible"/>
+
+    <TextView
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/test" />
+
+    <Button
+        android:text="Let's Go!"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/start_button"
+        android:layout_below="@+id/user_name"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:background="@drawable/button"
+        android:layout_marginBottom="20dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:id="@+id/uea1"
+        app:srcCompat="@drawable/uea1"
+        android:adjustViewBounds="false"
+        android:layout_centerHorizontal="true"
+        android:elevation="2dp"
+        android:layout_weight="0.32" />
+
+
+</LinearLayout>
