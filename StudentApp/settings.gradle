@@ -1,0 +1,1 @@
+include ':app', ':httpclient-4.0.3', ':httpcore-4.2.3', ':org.apache.httpcomponents.httpclient_4.5.2'

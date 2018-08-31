@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="uk.ac.leonarduea.haig.studentexperience.View">
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.ACCESS_COARSE_LOCATION"
+        android:required="false" />
+    <uses-permission
+        android:name="android.permission.INTERNET"
+        android:required="false" />
+    <uses-permission
+        android:name="android.permission.ACCESS_FINE_LOCATION"
+        android:required="false" />
+    <uses-permission
+        android:name="android.permission.CAMERA"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/gradlogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+        //to use login or share add this
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        //replace 1234 below with your Facebook App Id
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider1206110779464830"
+            android:exported="true" />
+
+        <activity
+            android:name=".Language_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.MainActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Profil_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Profil_GUI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Home_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Home" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".QR_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.qr" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Hints_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Hints" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Help_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Help" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Graduate_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Graduate" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Camera_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Camera" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name=".Quiz_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Quiz_GUI" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Finish_GUI"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Finish" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Journal_GUI">
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.Journal" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".LeaderBoardData">
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="uk.ac.leonarduea.haig.studentexperience.View.LeaderBoardData" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
